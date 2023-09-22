@@ -1,1 +1,5 @@
 this is the azurerm 
+<<<<<<< HEAD
+=======
+terraform module
+>>>>>>> c188589 (Revert "this is revert test")
